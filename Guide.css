@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+    /* font-family: 'Bree Serif', serif; */
+}
+
+.h1{
+    padding-top: 5%!important;
+    text-align: center!important;
+}
+.row{
+    margin-top: 4.5rem!important;
+    margin-left: 1rem!important;
+    margin-right: 1rem!important;
+}
+.row img{
+    border-radius:50px;
+}
+
+.fw-normal{
+    padding-top:20px!important;
+}
+
+/* HORIZONTAL RULER  */
+.hr{
+    margin-top:3%;
+    width: 100%;
+    border: 1px solid black;
+}
+
+/* FOOTER  */
+.footer{
+    padding-top: 2rem!important;
+    padding-bottom: 0rem!important;
+}

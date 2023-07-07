@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+    /* font-family: 'Bree Serif', serif; */
+}
+
+/* FOOTER  */
+.footer{
+    padding-top: 3rem!important;
+    padding-bottom: 0rem!important;
+}
+
+
+/* HR  */
+.hr{
+    margin-top:3%;
+    width: 100%;
+    border: 1px solid black;
+}

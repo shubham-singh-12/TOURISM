@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+    /* font-family: 'Bree Serif', serif; */
+}
+                                                                                      /* HEADER  */
+.container{
+    position: sticky;
+}
+
+                                                                                      /* CAROUSEL  */
+.carousel-item{
+    height:45rem;
+}
+
+                                                                                      /* OUR CLIENTS */
+h3{
+    text-align: center;
+    font-size: 4 rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+                                                                                      /* HORIZONTAL BANNER */
+.hr{
+    margin-top:3%;
+    width: 100%;
+    border: 1px solid black;
+}
+
+                                                                                      /* CLIENTS BORDER-RADIUS */
+.col-lg-4 img{
+    border-radius: 50%;
+}
+
+                                                                                      /* FOOTER  */
+.footer{
+    padding-top: 2rem!important;
+    padding-bottom: 0rem!important;
+}

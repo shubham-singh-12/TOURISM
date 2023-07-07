@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alkatra', cursive;
+    /* font-family: 'Bree Serif', serif; */
+}
+
+
+.display-4{
+    margin-top: 80px!important;
+    text-align: center;
+}
+
+.hr{
+    margin-top:3%;
+    width: 100%;
+    border: 1px solid black;
+}
